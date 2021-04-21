@@ -1,4 +1,4 @@
-package books.language.java.others;
+package books.Language.java.others;
 
 class NullObject {
     public static void main(String[] args) {
